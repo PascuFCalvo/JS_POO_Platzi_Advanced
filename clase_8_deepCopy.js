@@ -56,3 +56,5 @@ function deepCopy(subject) {
 
   return copySubject;
 }
+
+//con esto podemos hacer una copia profunda de un objeto con objetos dentro y metodos.
